@@ -17,7 +17,7 @@ const SignUp = ({ history }) => {
   }, [history]);
 
   return (
-    <div>
+    <div className="container">
       <h1>Sign up</h1>
       <form onSubmit={handleSignUp}>
         <label>
