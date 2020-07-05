@@ -1,5 +1,5 @@
 # React Firebase Authentication Example
 
-Put your credentials to `.env`.
+Put your credentials to `.env` once you create your user account from firebase.google.com.
 
-Run `yarn start` to start application.
+Run `npm start` to start application.
